@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aryanvinod Vinod Kumar
-- 👀 I’m interested in Python Coding and Automation.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Cloud Automation and data science.
+- 👋 Hi, I’m Vinod Kumar @aryanvinod
+- 👀 I’m interested in Python Coding, Data Analytics and Visualization and Automation.
+- 🌱 I’m new to Python, Data Analytics and Visualization, but very eager about it.
+- 💞️ I’m looking to collaborate on data science, Data Analytics and Automation.
 - 📫 How to reach me Gmail-vinodaryan97@gmail.com
